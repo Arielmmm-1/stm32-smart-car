@@ -5,7 +5,7 @@
 ## 目录
 - [废话](#废话)
 - [学习路程](#学习路程)
-
+- [尝试复刻](#~~抄袭~~复刻怎么从零开始?)
 ---
 ## 废话
 从应试性考试高中转变大学，什么都不会，但想尝试上手做一个简单的小小的智能车项目，十分迷茫，所以我就想记录一下自己的学习历程，肯定是很野的路子哈
@@ -25,4 +25,11 @@
 ## ~~抄袭~~复刻怎么从零开始?
 一开始连怎么连线共地都不会，最简单的方法当然是照抄啦：先模仿，去钻研，再去创新实现自己的想法  
 B站上面很多基础智能车的组装视频，不妨看一看，比如我当时参考的up视频  
-[【含全套代码】STM32智能小车入门教程（蓝牙遥控+红外循迹+超声波避障 ）TB6612驱动 单片机STM32F103 PW](https://www.bilibili.com/video/BV1CAe5zjEBv/?spm_id_from=333.1387.favlist.content.click&vd_source=1a7e1f3e114f171851fd820f1e7de84e)  
+[【含全套代码】STM32智能小车入门教程（蓝牙遥控+红外循迹+超声波避障 ）TB6612驱动 单片机STM32F103 PW](https://www.bilibili.com/video/BV1CAe5zjEBv/?spm_id_from=333.1387.favlist.content.click&vd_source=1a7e1f3e114f171851fd820f1e7de84e)
+
+## 目录结构
+- Hardware 基础驱动程序
+- System 延时等函数
+- User 用户代码 主程序
+- images 相关照片
+- PCB 小车的pcb板子
