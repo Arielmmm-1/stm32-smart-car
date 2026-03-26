@@ -1,5 +1,5 @@
 # stm32-smart-car
-![99a616415979997097686e09779c6411](https://github.com/user-attachments/assets/5967d99e-09cb-4627-aff5-8df8e048f411)
+
 
 
 ## 废话
