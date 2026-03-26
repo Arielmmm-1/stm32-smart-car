@@ -1,4 +1,6 @@
 # stm32-smart-car
+![99a616415979997097686e09779c6411](https://github.com/user-attachments/assets/5967d99e-09cb-4627-aff5-8df8e048f411)
+
 
 ## 废话
 从应试性考试高中转变大学，什么都不会，但想尝试上手做一个简单的小小的智能车项目，十分迷茫，所以我就想记录一下自己的学习历程，肯定是很野的路子哈
@@ -6,4 +8,5 @@
 ## 学习路程
 ---> C语言:这个是毋庸置疑要学的呀，一开始满怀期待到后面感觉无聊，所以我就先学到结构体，后面要学的话再继续  
 [语言程序设计从入门到进阶【比特鹏哥c语言2024完整版视频教程】](https://www.bilibili.com/video/BV1Vm4y1r7jY/?spm_id_from=333.1387.favlist.content.click&vd_source=1a7e1f3e114f171851fd820f1e7de84e)
+
 
