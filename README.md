@@ -22,3 +22,7 @@
 当时还喜欢先看keysking的视频学习原理，再去看江科大的代码  
 [【keysking】第0集 超易懂的STM32教程！！](https://www.bilibili.com/video/BV12v4y1y7uV/?spm_id_from=333.1387.favlist.content.click&vd_source=1a7e1f3e114f171851fd820f1e7de84e)
 
+## ~~抄袭~~复刻怎么从零开始?
+一开始连怎么连线共地都不会，最简单的方法当然是照抄啦：先模仿，去钻研，再去创新实现自己的想法  
+B站上面很多基础智能车的组装视频，不妨看一看，比如我当时参考的up视频  
+[【含全套代码】STM32智能小车入门教程（蓝牙遥控+红外循迹+超声波避障 ）TB6612驱动 单片机STM32F103 PW](https://www.bilibili.com/video/BV1CAe5zjEBv/?spm_id_from=333.1387.favlist.content.click&vd_source=1a7e1f3e114f171851fd820f1e7de84e)  
